@@ -1,6 +1,6 @@
----
 
 # SLACK: Attacking LiDAR-Based SLAM with Adversarial Point Injections
+---
 
 This repository contains the official implementation of **SLACK: Attacking LiDAR-Based SLAM with Adversarial Point Injections**, a novel approach to attack LiDAR-based SLAM systems using adversarial point injections.
 
