@@ -1,5 +1,3 @@
-Here’s a clean and professional README for your project, complete with sections for installation, usage, and citation. Let me know if you'd like to add code examples or setup instructions.
-
 ---
 
 # SLACK: Attacking LiDAR-Based SLAM with Adversarial Point Injections
